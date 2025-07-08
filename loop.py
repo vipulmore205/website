@@ -1,7 +1,3 @@
-i=0
-while(i<=5):
-    #print(i)
-    #i=i+1
-    i+=1
-    print(i)
-print("hii")
+a=5;
+b=55;
+print(a+b)
